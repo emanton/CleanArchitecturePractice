@@ -6,8 +6,6 @@ C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\BuberDinner.Api.dep
 C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\BuberDinner.Api.runtimeconfig.json
 C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\BuberDinner.Api.dll
 C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\BuberDinner.Api.pdb
-C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\BuberDinner.Application.dll
 C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\BuberDinner.Contracts.dll
 C:\Users\emant\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\BuberDinner.Domain.dll
@@ -22,7 +20,6 @@ C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.Gen
 C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.AssemblyInfoInputs.cache
 C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.AssemblyInfo.cs
 C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
-C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.sourcelink.json
 C:\Users\emant\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
