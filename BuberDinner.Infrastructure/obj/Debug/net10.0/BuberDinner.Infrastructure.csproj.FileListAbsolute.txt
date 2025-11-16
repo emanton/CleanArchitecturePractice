@@ -9,3 +9,10 @@ C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net10.0\BuberDin
 C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net10.0\refint\BuberDinner.Infrastructure.dll
 C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net10.0\BuberDinner.Infrastructure.pdb
 C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net10.0\ref\BuberDinner.Infrastructure.dll
+C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net10.0\BuberDinner.Application.dll
+C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net10.0\BuberDinner.Domain.dll
+C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net10.0\BuberDinner.Application.pdb
+C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net10.0\BuberDinner.Domain.pdb
+C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net10.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net10.0\BuberDinner.Infrastructure.sourcelink.json
+C:\Users\emant\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net10.0\BuberDin.DE1B2DD7.Up2Date

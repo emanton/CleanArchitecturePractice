@@ -9,3 +9,8 @@ C:\Users\emant\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner
 C:\Users\emant\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\refint\BuberDinner.Application.dll
 C:\Users\emant\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.pdb
 C:\Users\emant\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\ref\BuberDinner.Application.dll
+C:\Users\emant\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Domain.dll
+C:\Users\emant\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Domain.pdb
+C:\Users\emant\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\emant\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.sourcelink.json
+C:\Users\emant\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDin.E7CA8231.Up2Date

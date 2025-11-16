@@ -36,6 +36,52 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "BuberDinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "BuberDinner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuberDinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Application.dll": {}
+        }
+      },
+      "BuberDinner.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/BuberDinner.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Contracts.dll": {}
+        }
+      },
+      "BuberDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        }
+      },
+      "BuberDinner.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "BuberDinner.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuberDinner.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -75,10 +121,33 @@
         "microsoft.openapi.2.0.0.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "BuberDinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Application/BuberDinner.Application.csproj",
+      "msbuildProject": "../BuberDinner.Application/BuberDinner.Application.csproj"
+    },
+    "BuberDinner.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+      "msbuildProject": "../BuberDinner.Contracts/BuberDinner.Contracts.csproj"
+    },
+    "BuberDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
+    },
+    "BuberDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+      "msbuildProject": "../BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "BuberDinner.Application >= 1.0.0",
+      "BuberDinner.Contracts >= 1.0.0",
+      "BuberDinner.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.0"
     ]
   },
@@ -113,7 +182,17 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\emant\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "C:\\Users\\emant\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            },
+            "C:\\Users\\emant\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+              "projectPath": "C:\\Users\\emant\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+            },
+            "C:\\Users\\emant\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\emant\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
