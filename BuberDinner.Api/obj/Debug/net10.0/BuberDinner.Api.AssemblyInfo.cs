@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1284ad8d-30f0-4931-b218-de419b05f2ee")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuberDinner.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+157746c16ab60f6714b7e2fde09899a3133b5e60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87be634248324aaf7d3dfd93ff7ff88495ba02ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuberDinner.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuberDinner.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
